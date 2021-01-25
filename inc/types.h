@@ -1,7 +1,14 @@
 #ifndef G2CLIB_TYPES_H__
 #define G2CLIB_TYPES_H__
 
+typedef enum {
+    FALSE = 0,
+    TRUE
+} bool;
+
 typedef void v0;
+
+typedef unsigned char b1;
 
 typedef unsigned char u8;
 typedef signed char s8;
