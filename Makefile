@@ -15,7 +15,7 @@ TEST = \
 	test/test.c \
 	test/types/testTypes.c \
 
-GCC = ccache gcc
+GCC = gcc
 AR = ar
 
 ####################
